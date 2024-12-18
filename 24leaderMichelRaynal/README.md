@@ -1,0 +1,1 @@
+You can find one algorithm that implements that pattern in the book "Distributed algorithms for message passing systems" from the author Michel Raynal (ask me if you want to access this book). In the Chapter 4, the first algorithm is described in section 4.2.2 . 
